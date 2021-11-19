@@ -12,7 +12,9 @@ chmod 777 install,sh
 ```
 ./donut
 ```
+
 or you can move donut it to `$PREFIX/bin`
+
 ```
 mv donut $PREFIX/bin
 donut
